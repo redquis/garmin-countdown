@@ -1,0 +1,14 @@
+# Connect IQ build output
+bin/
+*.prg
+*.prg.debug.xml
+*.iq
+
+# Developer key (NEVER commit this — it signs your app)
+*.der
+developer_key*
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db

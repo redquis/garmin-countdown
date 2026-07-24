@@ -1,0 +1,41 @@
+<settings>
+    <!--
+        These render in Garmin Connect Mobile (phone) and Connect IQ / Garmin
+        Express (desktop). Dates are free-text in YYYY-MM-DD because Connect IQ
+        settings have no native date picker; the app parses/validates them.
+    -->
+    <setting propertyKey="@Properties.event1Name" title="@Strings.Event1Name">
+        <settingConfig type="alphaNumeric" maxLength="24" />
+    </setting>
+    <setting propertyKey="@Properties.event1Date" title="@Strings.Event1Date">
+        <settingConfig type="alphaNumeric" maxLength="10" />
+    </setting>
+
+    <setting propertyKey="@Properties.event2Name" title="@Strings.Event2Name">
+        <settingConfig type="alphaNumeric" maxLength="24" />
+    </setting>
+    <setting propertyKey="@Properties.event2Date" title="@Strings.Event2Date">
+        <settingConfig type="alphaNumeric" maxLength="10" />
+    </setting>
+
+    <setting propertyKey="@Properties.event3Name" title="@Strings.Event3Name">
+        <settingConfig type="alphaNumeric" maxLength="24" />
+    </setting>
+    <setting propertyKey="@Properties.event3Date" title="@Strings.Event3Date">
+        <settingConfig type="alphaNumeric" maxLength="10" />
+    </setting>
+
+    <setting propertyKey="@Properties.event4Name" title="@Strings.Event4Name">
+        <settingConfig type="alphaNumeric" maxLength="24" />
+    </setting>
+    <setting propertyKey="@Properties.event4Date" title="@Strings.Event4Date">
+        <settingConfig type="alphaNumeric" maxLength="10" />
+    </setting>
+
+    <setting propertyKey="@Properties.event5Name" title="@Strings.Event5Name">
+        <settingConfig type="alphaNumeric" maxLength="24" />
+    </setting>
+    <setting propertyKey="@Properties.event5Date" title="@Strings.Event5Date">
+        <settingConfig type="alphaNumeric" maxLength="10" />
+    </setting>
+</settings>

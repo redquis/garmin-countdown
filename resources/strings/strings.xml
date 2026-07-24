@@ -1,0 +1,20 @@
+<strings>
+    <string id="AppName">Countdown</string>
+
+    <string id="NoEvents">Add events in\nphone app settings</string>
+    <string id="Today">TODAY!</string>
+    <string id="Passed">passed</string>
+    <string id="DayOne">day left</string>
+    <string id="DayMany">days left</string>
+
+    <string id="Event1Name">Event 1 name</string>
+    <string id="Event1Date">Event 1 date (YYYY-MM-DD)</string>
+    <string id="Event2Name">Event 2 name</string>
+    <string id="Event2Date">Event 2 date (YYYY-MM-DD)</string>
+    <string id="Event3Name">Event 3 name</string>
+    <string id="Event3Date">Event 3 date (YYYY-MM-DD)</string>
+    <string id="Event4Name">Event 4 name</string>
+    <string id="Event4Date">Event 4 date (YYYY-MM-DD)</string>
+    <string id="Event5Name">Event 5 name</string>
+    <string id="Event5Date">Event 5 date (YYYY-MM-DD)</string>
+</strings>

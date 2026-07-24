@@ -1,0 +1,12 @@
+<properties>
+    <property id="event1Name" type="string"></property>
+    <property id="event1Date" type="string"></property>
+    <property id="event2Name" type="string"></property>
+    <property id="event2Date" type="string"></property>
+    <property id="event3Name" type="string"></property>
+    <property id="event3Date" type="string"></property>
+    <property id="event4Name" type="string"></property>
+    <property id="event4Date" type="string"></property>
+    <property id="event5Name" type="string"></property>
+    <property id="event5Date" type="string"></property>
+</properties>
